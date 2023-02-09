@@ -2,6 +2,8 @@
 
 A curated list of cool 📦 packages, 🛠️ tools, and 🧪 resources for [⚛️ Preact](https://preactjs.com).
 
+If I like something, it will be here. If I don't like something, it will not be here. 😼✌️
+
 ## Contents
 
 - [Preact Curated ⚛️ 📦](#preact-curated-️-)
